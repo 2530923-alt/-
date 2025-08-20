@@ -4,7 +4,6 @@ st.title('김준 R.I.P')
 
 st.sidebar.title("📌 사이드바 메뉴")
 option = st.sidebar.selectbox("옵션을 선택하세요", ["A", "B"])
-st.write("선택한 옵션:", option)
 '''
 with st.sidebar.selectbox([A]):
     name = st.text_input('이름을 입력해주세요 : ')

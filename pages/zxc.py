@@ -1,15 +1,15 @@
 import streamlit as st
 
-st.title('공식')
+st.title('김준 R.I.P')
 
 
-tab1, tab2 = st.tabs(["수학", "물리"])  # 2개의 탭 생성
+tab1, tab2 = st.tabs(["박채윤", "154"])  # 2개의 탭 생성
 
 with tab1:
-    mbti = st.selectbox('MBTI를 선택해주세요:', [
-    'INTJ', 'INTP', 'ENTJ', 'ENTP', 'INFJ', 'INFP', 'ENFJ', 'ENFP', 
-    'ISTJ', 'ISFJ', 'ESTJ', 'ESFJ', 'ISTP', 'ISFP', 'ESTP', 'ESFP'
-])
+    fuck = st.selectbox('선택해주세요:', [1])
+
+    fuck_data = {'1' : {'r"E = mc^2"'}}
+    
 
     
 with tab2:

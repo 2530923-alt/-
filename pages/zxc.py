@@ -10,7 +10,7 @@ with tab1:
 
     fuck_data = {'you' : {'r"E = mc^2"'}}
 
-    if st.button('hhh'):
+    if st.button('fuckyou'):
         if fuck in fuck_data:
             you = fuck_data[fuck]['you']
 

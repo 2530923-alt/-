@@ -11,8 +11,8 @@ with tab1:
     fuck_data = {'1' : you{'r"E = mc^2"'}}
 
     if st.button('특징 생성'):
-    if fuck in fuck_data:
-        you = fuck_data[mbti]['you']
+        if fuck in fuck_data:
+            you = fuck_data[mbti]['you']
 
     
 with tab2:

@@ -12,7 +12,7 @@ with tab1:
 
     if st.button('hhh'):
         if fuck in fuck_data:
-            you = fuck_data[fuck]['you']
+            1 = fuck_data[fuck]['1']
 
     
 with tab2:

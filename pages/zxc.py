@@ -13,7 +13,7 @@ with tab1:
     if st.button('fuckyou'):
         if fuck in fuck_data:
             you = fuck_data[fuck]['you']
-
+            st.write(f"**you**: {특징}")
     
 with tab2:
     st.write("탭 2에 해당하는 내용입니다.")  # 두 번째 탭에 표시할 내용

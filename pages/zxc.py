@@ -10,9 +10,9 @@ with tab1:
 
     fuck_data = {'1' : you{'r"E = mc^2"'}}
 
-    if st.button('특징 생성'):
+    if st.button('hhh'):
         if fuck in fuck_data:
-            you = fuck_data[mbti]['you']
+            you = fuck_data[fuck]['you']
 
     
 with tab2:
